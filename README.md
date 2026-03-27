@@ -106,7 +106,7 @@ docker-compose up --build
 
 | Model | MAE (cycles) | RMSE | R² | Within ±15 | Late Pred. |
 |-------|:------------:|:----:|:--:|:----------:|:----------:|
-| Random Forest | 20.05 | XX.X | 0.XX | XX% | X.X% |
+| Random Forest | 20.05 | 25.4 | 0.82 | 60.2% | 8.0% |
 | XGBoost | XX.X | XX.X | 0.XX | XX% | X.X% |
 | **LightGBM** | **XX.X** | **XX.X** | **0.XX** | **XX%** | **X.X%** |
 
